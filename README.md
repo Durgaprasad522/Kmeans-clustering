@@ -11,5 +11,7 @@ As a data science Engineer predict the futuristic financial for the upcoming gdp
 ![image](https://github.com/Durgaprasad522/Kmeans-clustering/assets/143177350/046fa93a-8723-480c-8c82-f50b5be6a38d)
 # REFFERENCES:-
 The model building algorithm devdelop for all kinds of clusteration values.The yellow spot represents the "CENTROID" which is max of 3.
+# Disclaimer
+in this particular dataset we assume annual income as centroid and spending score from the range 1 to 100 called as datanodes of cluster
 # conclusion
 According to the model basics prediction using machine learning algorithm KMeans clustering we found that cluster 1 is in red colour is highest cluster which attach more than 50 data nodes
